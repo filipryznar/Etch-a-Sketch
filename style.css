@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.row {
+  display: flex;
+  flex-direction: column;
+}
+.square,
+.test {
+  flex: 1 1 auto;
+  width: 20px;
+  height: 20px;
+  border: solid 1px black;
+  -margin: 2px;
+}
+
+.hover {
+  background-color: orange;
+}
