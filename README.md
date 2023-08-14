@@ -1,6 +1,5 @@
 # Etch-a-Sketch Web App
 
-![Etch-a-Sketch Preview](https://filipryznar.github.io/Etch-a-Sketch/)
 
 Welcome to the Etch-a-Sketch Web App! Unleash your creativity and draw on the virtual canvas using this interactive web application.
 
